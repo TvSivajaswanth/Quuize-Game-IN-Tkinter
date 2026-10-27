@@ -35,8 +35,7 @@ No extra packages to install.
    ```
 2. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/quiz-game.git
-   cd quiz-game
+   https://github.com/TvSivajaswanth/Quuize-Game-IN-Tkinter.git
    ```
 3. Run the app:
    ```bash
